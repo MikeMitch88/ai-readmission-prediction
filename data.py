@@ -70,3 +70,4 @@ precision = precision_score(y_test, y_pred)
 recall = recall_score(y_test, y_pred)
 print(f"\nPrecision: {precision:.2f}")
 print(f"Recall: {recall:.2f}")
+
